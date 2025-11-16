@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using System;
 
-namespace AssignmentNotifier.Models
+namespace namespace ConsoleApp11.Models
 {
     public class TaskItem
     {
