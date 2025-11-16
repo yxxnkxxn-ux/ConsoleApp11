@@ -8,7 +8,7 @@ using System;
 using System.Net;
 using System.Net.Mail;
 
-namespace AssignmentNotifier
+namespace ConsoleApp11
 {
     public class EmailService
     {
